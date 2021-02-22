@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>511</width>
-    <height>271</height>
+    <width>547</width>
+    <height>300</height>
    </rect>
   </property>
   <property name="palette">
@@ -462,7 +462,7 @@
    <widget class="QTableView" name="tableView">
     <property name="geometry">
      <rect>
-      <x>200</x>
+      <x>240</x>
       <y>10</y>
       <width>301</width>
       <height>231</height>
@@ -483,7 +483,7 @@ selection-color: rgb(0, 85, 0);</string>
      <rect>
       <x>10</x>
       <y>10</y>
-      <width>181</width>
+      <width>211</width>
       <height>31</height>
      </rect>
     </property>
@@ -497,8 +497,8 @@ selection-color: rgb(0, 85, 0);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+     <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
     </property>
     <property name="text">
      <string>Refresh Table</string>
@@ -509,7 +509,7 @@ background-color: rgb(0, 85, 0);</string>
      <rect>
       <x>10</x>
       <y>150</y>
-      <width>181</width>
+      <width>211</width>
       <height>31</height>
      </rect>
     </property>
@@ -523,8 +523,8 @@ background-color: rgb(0, 85, 0);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+     <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
     </property>
     <property name="text">
      <string>Converter</string>
@@ -535,7 +535,7 @@ background-color: rgb(0, 85, 0);</string>
      <rect>
       <x>11</x>
       <y>50</y>
-      <width>101</width>
+      <width>131</width>
       <height>21</height>
      </rect>
     </property>
@@ -549,8 +549,8 @@ background-color: rgb(0, 85, 0);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+     <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
     </property>
     <item>
      <property name="text">
@@ -566,7 +566,7 @@ background-color: rgb(0, 85, 0);</string>
    <widget class="QPushButton" name="pushButton">
     <property name="geometry">
      <rect>
-      <x>120</x>
+      <x>150</x>
       <y>50</y>
       <width>71</width>
       <height>51</height>
@@ -582,8 +582,8 @@ background-color: rgb(0, 85, 0);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+     <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
     </property>
     <property name="text">
      <string>Search</string>
@@ -594,7 +594,7 @@ background-color: rgb(0, 85, 0);</string>
      <rect>
       <x>11</x>
       <y>80</y>
-      <width>101</width>
+      <width>131</width>
       <height>21</height>
      </rect>
     </property>
@@ -617,7 +617,7 @@ selection-color: rgb(0, 85, 0);</string>
      <rect>
       <x>10</x>
       <y>110</y>
-      <width>181</width>
+      <width>211</width>
       <height>31</height>
      </rect>
     </property>
@@ -631,8 +631,8 @@ selection-color: rgb(0, 85, 0);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+     <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
     </property>
     <property name="text">
      <string>Add new </string>
@@ -643,7 +643,7 @@ background-color: rgb(0, 85, 0);</string>
      <rect>
       <x>10</x>
       <y>190</y>
-      <width>181</width>
+      <width>211</width>
       <height>31</height>
      </rect>
     </property>
@@ -657,8 +657,8 @@ background-color: rgb(0, 85, 0);</string>
      <cursorShape>PointingHandCursor</cursorShape>
     </property>
     <property name="styleSheet">
-     <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+     <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
     </property>
     <property name="text">
      <string>← Back</string>
@@ -670,7 +670,7 @@ background-color: rgb(0, 85, 0);</string>
     <rect>
      <x>0</x>
      <y>0</y>
-     <width>511</width>
+     <width>547</width>
      <height>26</height>
     </rect>
    </property>

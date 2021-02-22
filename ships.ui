@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>390</width>
-    <height>240</height>
+    <width>389</width>
+    <height>244</height>
    </rect>
   </property>
   <property name="palette">
@@ -485,8 +485,8 @@ selection-color: rgb(0, 85, 0);</string>
        <cursorShape>PointingHandCursor</cursorShape>
       </property>
       <property name="styleSheet">
-       <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+       <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
       </property>
       <property name="text">
        <string>Refresh</string>
@@ -505,8 +505,8 @@ background-color: rgb(0, 85, 0);</string>
        <cursorShape>PointingHandCursor</cursorShape>
       </property>
       <property name="styleSheet">
-       <string notr="true">color:  rgb(179, 0, 0);
-background-color: rgb(0, 85, 0);</string>
+       <string notr="true">color:  rgb(0, 0, 0);
+background-color: rgb(255, 255, 127);</string>
       </property>
       <property name="text">
        <string>← Back</string>
